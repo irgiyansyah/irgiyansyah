@@ -1,16 +1,33 @@
 ## Hi there 👋
 
-<!--
-**irgiyansyah/irgiyansyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Creative Design and Front end Developer
+- 🌱 I’m currently learning Content Creating
+- 👯 I’m looking to collaborate on Design And Build a content
+- 💬 Ask me about a Designing
+- 📫 How to reach me: @irgiyanzyahaf (Ig)
+- ⚡ Fun fact: I love Google Developer :3
 
-Here are some ideas to get you started:
+<div align="center">
+<h2>TECHSTACKS🧑🏻‍💻</h3>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages:</h3>
+<p align="left" style="margin-top: 20px;">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,js,python" />
+  </a> 
+</p>
+
+<h3 align="left">Front-End:</h3>
+<p align="left" style="margin-top: 20px;">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  </a>
+</p>
+
+<h3 align="left">Tools:</h3>
+<p align="left" style="margin-top: 20px;">
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,figma" />
+  </a>
+</p>
