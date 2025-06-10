@@ -14,7 +14,7 @@
 <h3 align="left">Languages:</h3>
 <p align="left" style="margin-top: 20px;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,js,python" />
+    <img src="https://skillicons.dev/icons?i=c,js,python,kotlin" />
   </a> 
 </p>
 
@@ -28,6 +28,6 @@
 <h3 align="left">Tools:</h3>
 <p align="left" style="margin-top: 20px;">
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,figma" />
+    <img src="https://skillicons.dev/icons?i=github,figma,androidstudio" />
   </a>
 </p>
