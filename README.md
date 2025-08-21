@@ -14,14 +14,14 @@
 <h3 align="left">Languages:</h3>
 <p align="left" style="margin-top: 20px;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,js,python,kotlin,php" />
+    <img src="https://skillicons.dev/icons?i=c,js,python,kotlin,php,dart" />
   </a> 
 </p>
 
 <h3 align="left">Front-End:</h3>
 <p align="left" style="margin-top: 20px;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter" />
   </a>
 </p>
 
