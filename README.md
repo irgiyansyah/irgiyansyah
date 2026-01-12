@@ -21,7 +21,7 @@
 <h3 align="left">Front-End:</h3>
 <p align="left" style="margin-top: 20px;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwindcss" />
   </a>
 </p>
 
