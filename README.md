@@ -28,7 +28,7 @@
 <h3 align="left">Back-End:</h3>
 <p align="left" style="margin-top: 20px;">
   <a href="https://skillicons.dev">
-    <img srce="https://skillicons.dev/icon?i=laravel,expressjs,nodejs" />
+    <img src="https://skillicons.dev/icon?i=laravel,expressjs,nodejs" />
   </a>
 </p>
 
